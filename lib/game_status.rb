@@ -38,7 +38,7 @@ def full?(board)
 end
 
 def draw?(board)
-  
+  !won? && full?
 end
 
 # def over?
