@@ -41,10 +41,10 @@ def draw?(board)
   
 end
 
-def over?
+# def over?
   
-end
+# end
 
-def winner
+# def winner
   
-end
+# end
