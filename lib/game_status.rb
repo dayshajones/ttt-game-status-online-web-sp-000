@@ -21,3 +21,11 @@ end
 def full?
   
 end
+
+def draw?
+  
+end
+
+def over?
+  
+end
